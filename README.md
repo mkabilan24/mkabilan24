@@ -9,7 +9,7 @@ I love building innovative solutions, whether it's **analyzing electromagnetic w
 
 ## 🛠️ What I'm Working On  
 - 📱 **EMWavePro** – A **Flutter** app for **electromagnetic wave analysis**, featuring **3D visualizations, mathematical input, and interactive graphs**.  
-- 🛒 **SnapFlex** – A **Gen-Z fashion e-commerce platform**, built with **Flutter, HTML, PHP, SQL, and JavaScript**, focusing on a seamless shopping experience.  
+- 🛒 **SnapFlex** – A **Gen-Z fashion e-commerce platform**, built with **HTML, PHP, SQL, and JavaScript**, focusing on a seamless shopping experience.  
 - 🎓 Researching **machine learning models** for **image classification**, including **MobileNetV2 and EfficientNet**.  
 
 ---
